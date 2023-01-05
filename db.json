@@ -25,48 +25,25 @@
     "transactions": [
 
     ],
-    "data":[
+    "cars":[
+            {
+            "brand": "Tata",
+            "type": "Automatic",
+            "year": "2019",
+            "kms": "1200",
+            "des": "Hello",
+            "price": "1100",
+            "id": 1
+        },
         {
-            "id":1,
-            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-            "book_name": "Harry Potter 3",
-            "author": "J. K. Rowling",
-            "genre": "fiction",
-            "edition": "2021",
-            "publisher": "Bloomsbury",
-            "cost": 1000,
-            "borrowed": false
-            },{
-                "id":2,
-                "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-                "book_name": "Harry Potter 4",
-                "author": "J. K. Rowling",
-                "genre": "fiction",
-                "edition": "2021",
-                "publisher": "Bloomsbury",
-                "cost": 1499,
-                "borrowed": false
-                },{
-                    "id":3,
-                    "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-                    "book_name": "Harry Potter 2",
-                    "author": "J. K. Rowling",
-                    "genre": "fiction",
-                    "edition": "2021",
-                    "publisher": "Bloomsbury",
-                    "cost": 1299,
-                    "borrowed": false
-                    },{
-                        "id":4,
-                        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-                        "book_name": "Harry Potter ",
-                        "author": "J. K. Rowling",
-                        "genre": "fiction",
-                        "edition": "2021",
-                        "publisher": "Bloomsbury",
-                        "cost": 1999,
-                        "borrowed": false
-                        }
+            "brand": "Audi",
+            "type": "Automatic",
+            "year": "2019",
+            "kms": "900",
+            "des": "Hello",
+            "price": "50000",
+            "id": 2
+        }
 ]
     
 
