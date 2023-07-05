@@ -42,23 +42,7 @@
         }
 ],
     "bookings": [
-    {
-      {
-        "car_id": {
-          "image": "https://zoomcar-assets.zoomcar.com/photographs/original/01487574d7b147f64dd47ab3e4dc1d32407ec724.png?1663874426",
-          "name": "Suzuki Ertiga",
-          "transmission": "Manual",
-          "fuel": "Petrol",
-          "seats": "7 Seats",
-          "ratings": "4.12 (86)",
-          "kms": "63k kms driven",
-          "address": "5.2 km 2nd Main Rd, Defence Colony, Indiranagar, Bengaluru, Karnataka 560038, India",
-          "discount_price": "4120",
-          "original_price": "4952"
-        },
-        "id": 1
-      },
-    }
+    
   ],
 "dogs": [
     
